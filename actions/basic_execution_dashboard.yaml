@@ -1,2 +1,3 @@
 ---
+description: "Get a quick view of the basic metrics for the execution service."
 workflow: "spackle/wf_cw_metrics:latest"
