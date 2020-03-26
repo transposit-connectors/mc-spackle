@@ -2,7 +2,9 @@
 
 
 
-## Step 1
+## Check basic microservice stats
+
+Here you can get a quick view of the basic metrics for each service.
 
 [auth](https://console.demo.transposit.com/mc/t/spackle/actions/basic_auth_dashboard)
 [code](https://console.demo.transposit.com/mc/t/spackle/actions/basic_code_dashboard)
