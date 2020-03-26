@@ -6,6 +6,6 @@ All our images for all environments are stored on the development-admin ECR acco
 ECS pulls the most recent images from ECR to spin up new tasks.
 
 ## Verify ECS Images
-Check that the most recent image is deployed in ECS. 
+Check that the most recent image is deployed in ECS[spackle](https://console.demo.transposit.com/mc/t/spackle/actions/check_most_recent). 
 This should be an uncommon occurrence, as they should always match. 
-If they don’t match, [TODO]
+If they don’t match, Click here to do something
