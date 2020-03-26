@@ -26,7 +26,7 @@ This runbook is not meant to contain _every_ means of investigation; it contains
 
 If you've used the existing hosted app https://scan-cw-logs-btf3u.transposit.io/, then the following action _(restricted to just querying `staging`)_ should look familiar!
 
-[scan_cw_logs](https://console.transposit.com/mc/t/spackle/actions/scan_cw_logs)
+[scan_cw_logs](https://console.demo.transposit.com/mc/t/spackle/actions/scan_cw_logs)
 
 Need some inspiration on what to filter by? Try one of these:
 ```
