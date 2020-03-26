@@ -18,6 +18,10 @@ This runbook is not meant to contain _every_ means of investigation; it contains
 
 ## Check alerts in alarm
 
+Show all the alerts that are alarming.
+
+[Display alerts in alarm](https://console.demo.transposit.com/mc/t/spackle/actions/display_alarming_alarms)
+
 ## Check ECS tasks are deployed with the right ECR image
 
 ## Check basic microservice stats
