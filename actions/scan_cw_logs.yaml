@@ -1,0 +1,2 @@
+---
+workflow: "spackle/workflow_query_cw_logs:latest"
