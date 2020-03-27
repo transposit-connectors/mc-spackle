@@ -33,7 +33,7 @@ Here you can get a quick view of the basic metrics for each ECS service correspo
 [execution](https://console.demo.transposit.com/mc/t/spackle/actions/basic_execution_dashboard)
 [web](https://console.demo.transposit.com/mc/t/spackle/actions/basic_web_dashboard)
 
-_Note shown: `schedule`, `accounts`, `task`, `apps`_
+_Note shown: *schedule*, *accounts*, *task*, *apps*_
 
 ## Check basic EC2 instance stats
 
