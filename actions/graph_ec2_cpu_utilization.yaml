@@ -1,0 +1,2 @@
+---
+workflow: "spackle/workflow_ec2_instance_graphs:latest"
