@@ -50,7 +50,7 @@ Here you can get the last 10 JIRA bugs that were filed.
 
 ## Query cloudwatch logs
 
-If you've used the existing hosted app <https://scan-cw-logs-btf3u.transposit.io/|scan-cw-logs>, then the following action _(restricted to just querying `staging`)_ should look familiar!
+If you've used the existing hosted app [scan-cw-logs](https://scan-cw-logs-btf3u.transposit.io/), then the following action _(restricted to just querying `staging`)_ should look familiar!
 
 [Scan CW logs](https://console.demo.transposit.com/mc/t/spackle/actions/scan_cw_logs)
 
