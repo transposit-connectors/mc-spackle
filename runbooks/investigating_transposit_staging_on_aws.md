@@ -4,15 +4,15 @@
 
 If you've ever heard the phrases
 
-... _"Is anyone else having trouble logging into `staging`?"_
+... _"Is anyone else having trouble logging into *staging*?"_
 
-... _"Is `staging` really slow right now?"_
+... _"Is *staging* really slow right now?"_
 
-... _"Can someone help me debug this failure on `staging`? This is the *request-id*."_
+... _"Can someone help me debug this failure on *staging*? This is the `request-id`."_
 
 then this runbook is for you.
 
-Included in this runbook are a handful of steps to _start_ investigating potential problems on `staging`.
+Included in this runbook are a handful of steps to _start_ investigating potential problems on *staging*.
 
 This runbook is not meant to contain _every_ means of investigation; it contains just the most common ones.
 
