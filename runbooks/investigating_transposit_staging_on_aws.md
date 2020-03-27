@@ -1,4 +1,4 @@
-# Investigating Transposit Staging
+# Investigating Transposit Staging (on AWS)
 
 ## What are you trying to do?
 
@@ -40,6 +40,8 @@ _Note shown: *schedule*, *accounts*, *task*, *apps*_
 Here you can get a quick view of the basic metrics for each non-bastion EC2 instance.
 
 [CPU Utilization](https://console.demo.transposit.com/mc/t/spackle/actions/graph_ec2_cpu_utilization)
+
+[Show EC2 instance states](https://console.demo.transposit.com/mc/t/spackle/actions/show_ec2_status)
 
 ## Query cloudwatch logs
 
