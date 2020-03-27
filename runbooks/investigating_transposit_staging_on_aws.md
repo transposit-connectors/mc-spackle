@@ -12,7 +12,7 @@ If you've ever heard the phrases
 
 then this runbook is for you.
 
-Included in this runbook are a handful of steps to _start_ investigating potential problems on *staging*.
+Included in this runbook are a handful of steps to _start_ investigating potential problems on _*staging*_.
 
 This runbook is not meant to contain _every_ means of investigation; it contains just some common ones.
 
