@@ -1,0 +1,2 @@
+---
+workflow: "spackle/ec2_metrics:latest"
