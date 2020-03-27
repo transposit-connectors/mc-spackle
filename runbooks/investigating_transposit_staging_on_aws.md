@@ -1,4 +1,4 @@
-# Investigating Transposit Staging (on AWS)
+# Investigating Transposit Staging
 
 ## What are you trying to do?
 
