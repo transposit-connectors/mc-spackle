@@ -33,14 +33,13 @@ Here you can get a quick view of the basic metrics for each ECS service correspo
 [execution](https://console.demo.transposit.com/mc/t/spackle/actions/basic_execution_dashboard)
 [web](https://console.demo.transposit.com/mc/t/spackle/actions/basic_web_dashboard)
 
-_Note shown: *schedule*, *accounts*, *task*, *apps*_
+_Not shown: *schedule*, *accounts*, *task*, *apps*_
 
 ## Check basic EC2 instance stats
 
 Here you can get a quick view of the basic metrics for each non-bastion EC2 instance.
 
 [CPU Utilization](https://console.demo.transposit.com/mc/t/spackle/actions/graph_ec2_cpu_utilization)
-
 [Show EC2 instance states](https://console.demo.transposit.com/mc/t/spackle/actions/show_ec2_status)
 
 ## Query cloudwatch logs
