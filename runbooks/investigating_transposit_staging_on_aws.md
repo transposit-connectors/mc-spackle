@@ -14,7 +14,7 @@ then this runbook is for you.
 
 Included in this runbook are a handful of steps to _start_ investigating potential problems on *staging*.
 
-This runbook is not meant to contain _every_ means of investigation; it contains just the most common ones.
+This runbook is not meant to contain _every_ means of investigation; it contains just some common ones.
 
 ## Check alerts in alarm
 
