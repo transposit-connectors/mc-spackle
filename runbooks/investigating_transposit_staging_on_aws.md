@@ -42,6 +42,12 @@ Here you can get a quick view of the basic metrics for each non-bastion EC2 inst
 
 ## Check ECS tasks are deployed with the right ECR image
 
+## Run very import AWS lambda scripts
+
+Let's run some of our AWS lambda scripts. Here's one.
+
+[Run AWS Lambda script](https://console.demo.transposit.com/mc/t/spackle/actions/lambda_something_something)
+
 ## Check recent JIRAs
 
 Here you can get the last 10 JIRA bugs that were filed.
