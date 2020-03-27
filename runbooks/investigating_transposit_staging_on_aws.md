@@ -22,8 +22,6 @@ Show all the alerts that are alarming.
 
 [Display alerts in alarm](https://console.demo.transposit.com/mc/t/spackle/actions/display_alarming_alarms)
 
-## Check ECS tasks are deployed with the right ECR image
-
 ## Check basic microservice stats
 
 Here you can get a quick view of the basic metrics for each ECS service corresponding to each microservice.
@@ -39,14 +37,22 @@ _Not shown: *schedule*, *accounts*, *task*, *apps*_
 
 Here you can get a quick view of the basic metrics for each non-bastion EC2 instance.
 
-[CPU Utilization](https://console.demo.transposit.com/mc/t/spackle/actions/graph_ec2_cpu_utilization)
+[CPU utilization graphs](https://console.demo.transposit.com/mc/t/spackle/actions/graph_ec2_cpu_utilization)
 [Show EC2 instance states](https://console.demo.transposit.com/mc/t/spackle/actions/show_ec2_status)
+
+## Check ECS tasks are deployed with the right ECR image
+
+## Check recent JIRAs
+
+Here you can get the last 10 JIRA bugs that were filed.
+
+[Last 10 JIRA bugs](https://console.demo.transposit.com/mc/t/spackle/actions/recent_jiras)
 
 ## Query cloudwatch logs
 
-If you've used the existing hosted app https://scan-cw-logs-btf3u.transposit.io/, then the following action _(restricted to just querying `staging`)_ should look familiar!
+If you've used the existing hosted app <https://scan-cw-logs-btf3u.transposit.io/|scan-cw-logs>, then the following action _(restricted to just querying `staging`)_ should look familiar!
 
-[scan_cw_logs](https://console.demo.transposit.com/mc/t/spackle/actions/scan_cw_logs)
+[Scan CW logs](https://console.demo.transposit.com/mc/t/spackle/actions/scan_cw_logs)
 
 Need some inspiration on what to filter by? Try one of these:
 ```
