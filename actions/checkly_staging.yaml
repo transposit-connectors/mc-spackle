@@ -1,2 +1,3 @@
 ---
+description: "Get the latest results from Checkly (staging)"
 workflow: "spackle/wf_checkly:latest"
