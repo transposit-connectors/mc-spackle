@@ -42,7 +42,7 @@ Here you can get a quick view of the basic metrics for each non-bastion EC2 inst
 
 ## Check ECS tasks are deployed with the right ECR image
 
-Make sure that all ECS tasks are using the same image. 
+Make sure that all ECS tasks are using the same image and that the image is tagged latest.
 
 [Check Image Versions](https://console.demo.transposit.com/mc/t/spackle/actions/check_most_recent)
 
