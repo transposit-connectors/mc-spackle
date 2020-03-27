@@ -46,7 +46,7 @@ Make sure that all ECS tasks are using the same image and that the image is tagg
 
 [Check Image Versions](https://console.demo.transposit.com/mc/t/spackle/actions/check_most_recent)
 
-## Run very import AWS lambda scripts
+## Run very important AWS lambda scripts
 
 Let's run some of our AWS lambda scripts. Here's one.
 
