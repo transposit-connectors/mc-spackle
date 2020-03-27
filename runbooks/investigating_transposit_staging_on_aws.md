@@ -42,6 +42,10 @@ Here you can get a quick view of the basic metrics for each non-bastion EC2 inst
 
 ## Check ECS tasks are deployed with the right ECR image
 
+Make sure that all ECS tasks are using the same image. 
+
+[Check Image Versions](https://console.demo.transposit.com/mc/t/spackle/actions/check_most_recent)
+
 ## Run very import AWS lambda scripts
 
 Let's run some of our AWS lambda scripts. Here's one.
