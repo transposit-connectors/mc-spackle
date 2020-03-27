@@ -26,12 +26,20 @@ Show all the alerts that are alarming.
 
 ## Check basic microservice stats
 
-Here you can get a quick view of the basic metrics for each service.
+Here you can get a quick view of the basic metrics for each ECS service corresponding to each microservice.
 
 [auth](https://console.demo.transposit.com/mc/t/spackle/actions/basic_auth_dashboard)
 [code](https://console.demo.transposit.com/mc/t/spackle/actions/basic_code_dashboard)
 [execution](https://console.demo.transposit.com/mc/t/spackle/actions/basic_execution_dashboard)
 [web](https://console.demo.transposit.com/mc/t/spackle/actions/basic_web_dashboard)
+
+_Note shown: `schedule`, `accounts`, `task`, `apps`_
+
+## Check basic EC2 instance stats
+
+Here you can get a quick view of the basic metrics for each non-bastion EC2 instance.
+
+[CPU Utilization](https://console.demo.transposit.com/mc/t/spackle/actions/graph_ec2_cpu_utilization)
 
 ## Query cloudwatch logs
 
