@@ -16,7 +16,7 @@ You can use `Markdown` *formatting* and [the usual syntax](https://github.com/ad
 
 *bold in Slack markdown*
 
-**bold in Markdown markdown*
+**bold in Markdown markdown**
 
 
 _italics in Slack markdown_
