@@ -11,3 +11,10 @@ You can use `Markdown` *formatting* and [the usual syntax](https://github.com/ad
 [graph_ec2_cpu_utilization](https://console.demo.transposit.com/mc/t/spackle/actions/graph_ec2_cpu_utilization)
 
 [recent_jiras](https://console.demo.transposit.com/mc/t/spackle/actions/recent_jiras)
+
+*bold in Slack markdown*
+**bold in Markdown markdown*
+
+_italics in Slack markdown_
+_italics in Markdown markdown (with underscore)_
+*italics in Markdown markdown (with asterisk)*
