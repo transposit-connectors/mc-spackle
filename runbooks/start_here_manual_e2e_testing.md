@@ -3,7 +3,7 @@
 ## Step 1 - instructions
 This is what we need to test:
 
-- run the `/transposit-demo` slash command to trigger a new incident
+- run the `/trigger-demo` slash command to trigger a new incident
 - create an incident channel
 - join the incident channel
 - click on the open runbooks button
