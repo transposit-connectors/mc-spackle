@@ -11,6 +11,7 @@ This is what you need to test:
 - open this runbook (`Manual E2E testing`)
 - go to `step 2 - run workflow`
 - run the workflow
+- check the workflow output in the chat message
 - close the incident
 
 ## Step 2 - run workflow
