@@ -12,9 +12,15 @@ You can use `Markdown` *formatting* and [the usual syntax](https://github.com/ad
 
 [recent_jiras](https://console.demo.transposit.com/mc/t/spackle/actions/recent_jiras)
 
+## Step 2 markdown rendering
+
 *bold in Slack markdown*
+
 **bold in Markdown markdown*
 
+
 _italics in Slack markdown_
+
 _italics in Markdown markdown (with underscore)_
+
 *italics in Markdown markdown (with asterisk)*
