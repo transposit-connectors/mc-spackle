@@ -24,3 +24,11 @@ _italics in Slack markdown_
 _italics in Markdown markdown (with underscore)_
 
 *italics in Markdown markdown (with asterisk)*
+
+* Item 1 (asterisk)
+* Item 2 (asterisk)
+* Item 3 (asterisk)
+
+- Item a (dash)
+- Item b (dash)
+- Item c (dash)
