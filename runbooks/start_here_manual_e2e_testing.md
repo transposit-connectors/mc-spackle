@@ -3,6 +3,7 @@
 ## Step 1 - instructions
 This is what we need to test:
 
+- join the #spa-lerts-demo channel
 - run the `/trigger-demo` slash command to trigger a new incident
 - create an incident channel
 - join the incident channel
