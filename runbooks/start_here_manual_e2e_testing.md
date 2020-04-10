@@ -21,15 +21,7 @@ Click the `Run workflow!` button to test this workflow.
 ## Step 3 - no auth check
 
 This test is for making sure we show a "no auth" modal after the input prompt loading screen. It requires
-user auth for "AWS Budgets" so as long as you haven't added your user auth to that, it should show you an error modal.
+user auth for "AWS Budgets" so as long as you haven't added your user auth to that, or if you haven't signed in to Transposit with this slack workspace, it should show you an error modal.
 
 [Run workflow](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
-[Run workflow1](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
-[Run workflow2](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
-[Run workflow3](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
-[Run workflow4](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
-[Run workflow5](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
-[Run workflow6](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
-[Run workflow7](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
-[Run workflow8](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
 
