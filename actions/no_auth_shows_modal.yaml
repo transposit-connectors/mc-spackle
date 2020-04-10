@@ -1,0 +1,3 @@
+---
+description: "Tests that not having (user) auth shows a modal saying so"
+workflow: "spackle/test_no_auth_shows_modal_wf:latest"
