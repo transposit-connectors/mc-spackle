@@ -29,4 +29,7 @@ user auth for "AWS Budgets" so as long as you haven't added your user auth to th
 [Run workflow3](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
 [Run workflow4](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
 [Run workflow5](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
+[Run workflow6](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
+[Run workflow7](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
+[Run workflow8](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
 
