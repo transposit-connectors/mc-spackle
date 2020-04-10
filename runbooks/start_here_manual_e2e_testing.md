@@ -9,13 +9,18 @@ This is what you need to test:
 - join the incident channel
 - click on the `Runbooks` button
 - open this runbook (`Manual E2E testing`)
-- go to `step 2 - run workflow`
-- run the workflow
-- check the workflow output in the chat message
+- Continue through the steps to run workflows 
 - close the incident
 
 ## Step 2 - run workflow
 
-Click the `Run workflow!` button to test workflows.
+Click the `Run workflow!` button to test this workflow. The expected output is a :wave: emoji.
 
 [Run workflow!](https://console.demo.transposit.com/mc/t/spackle/actions/e2e_test_workflow)
+
+## Step 3 - no auth check
+
+This test is for making sure we show a "no auth" modal after the input prompt loading screen. It requires
+user auth for "AWS Budgets" so as long as you haven't added your user auth to that, it should show you an error modal.
+
+[Run workflow](https://console.demo.transposit.com/mc/t/spackle/actions/no_auth_shows_modal)
