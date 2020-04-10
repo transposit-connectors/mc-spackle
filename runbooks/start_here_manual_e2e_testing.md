@@ -14,7 +14,7 @@ This is what you need to test:
 
 ## Step 2 - run workflow
 
-Click the `Run workflow!` button to test this workflow. The expected output is a :wave: emoji.
+Click the `Run workflow!` button to test this workflow. 
 
 [Run workflow!](https://console.demo.transposit.com/mc/t/spackle/actions/e2e_test_workflow)
 
