@@ -65,6 +65,7 @@ If you've used the existing hosted app [scan-cw-logs](https://scan-cw-logs-btf3u
 [Scan CW logs](https://console.demo.transposit.com/mc/t/spackle/actions/scan_cw_logs)
 
 Need some inspiration on what to filter by? Try one of these:
+
 ```
 "ERROR"
 "<request-id of particular failures>"

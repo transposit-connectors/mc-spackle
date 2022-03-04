@@ -1,5 +1,6 @@
 ---
-description: "This workflow will ask you to type some text in the input step, when\
+description:
+  "This workflow will ask you to type some text in the input step, when\
   \ you run the workflow it will just type it back in the chat message, just make\
   \ sure that you get the same value that you typed."
 workflow: "spackle/e2e_test_workflow:latest"
